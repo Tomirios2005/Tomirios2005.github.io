@@ -9,7 +9,6 @@ html, main{
 
 .navbar, header, nav{
     border-bottom: solid rgb(8, 231, 164);
-    position: sticky;
     background-color: rgba(9, 103, 185, 0.644);
 }
 
