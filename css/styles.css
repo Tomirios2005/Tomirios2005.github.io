@@ -68,6 +68,12 @@ nav a:link{
 .resume{
     background-color: rgb(15, 168, 206);
 }
+#estudio{
+    display:none
+}
+#proyecto{
+    display: none;
+}
 @media only screen and (max-width:991px){
      img{
         width: 90%;
